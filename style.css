@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .nike{
+      background:cyan;
+      height: 370px;
+      padding: 15px;
+      margin-top: 10px;
+      max-width: 410px;
+      text-align:start;
+      border-radius: 10px;
+      
+  }
+  .A{
+      display: flex;
+      flex-direction: column;
+  }
